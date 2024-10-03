@@ -9,11 +9,6 @@ Input structure is:
 Output structure is:
 
 {
-"0": {"ais": "0.374", "issn": "1008-682X", "decil": "1", "poradi": 1, "kvartil": "Q2"}, 
-"1": {"ais": "0.355", "issn": "0303-4569", "decil": "", "poradi": 2, "kvartil": "Q4"}
-}
-
-{
 "PHP_arr": [{"ais": "0.374", "issn": "1008-682X", "decil": "", "poradi": 1, "kvartil": "Q2"}, 
              {"ais": "0.355", "issn": "0303-4569", "decil": "", "poradi": 2, "kvartil": "Q4"}],
 "PHP_len": 2
